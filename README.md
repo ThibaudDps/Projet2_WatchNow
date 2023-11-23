@@ -1,6 +1,6 @@
 # Watch Now - Projet 2
 
-## Watch Now est un concept de plateforme digitale de location de films.
+Watch Now est un concept de plateforme digitale de location de films.
 A partir d'une base de données fournie, nous devions construire autour un environnement composé de plusieurs pages disposant la dite BDD, un système de navigation et un formulaire de contact.
 
 Réalisation personnelle :
