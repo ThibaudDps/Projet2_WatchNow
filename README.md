@@ -3,7 +3,7 @@
 [![Image](https://i.goopics.net/n380ck.png)](https://goopics.net/i/n380ck)
 
 
-[VISITEZ WATCH NOW]([https://thibauddps.github.io/work-it/](https://watch-now.remote-fr-3.wilders.dev))  
+[VISITEZ WATCH NOW](https://watch-now.remote-fr-3.wilders.dev)
 
 
 ## Cadre du projet
